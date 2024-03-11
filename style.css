@@ -1,0 +1,163 @@
+.macbook-pro {
+  background-color: #3a4d54;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.macbook-pro .overlap-group-wrapper {
+  background-color: #3a4d54;
+  width: 1512px;
+  height: 982px;
+}
+
+.macbook-pro .overlap-group {
+  position: relative;
+  height: 982px;
+  background-image: url(./img/unsplash-el92hmat91o.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.macbook-pro .IMG-removebg {
+  width: 850px;
+  height: 503px;
+  top: 479px;
+  left: 0;
+  position: absolute;
+  object-fit: cover;
+}
+
+.macbook-pro .img {
+  width: 589px;
+  height: 491px;
+  top: 491px;
+  left: 923px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.macbook-pro .untitled-design {
+  position: absolute;
+  width: 1512px;
+  height: 976px;
+  top: 0;
+  left: 0;
+  object-fit: cover;
+}
+
+.macbook-pro .element {
+  position: absolute;
+  width: 1512px;
+  height: 563px;
+  top: 419px;
+  left: 0;
+  object-fit: cover;
+}
+
+.macbook-pro .p {
+  position: absolute;
+  width: 182px;
+  height: 219px;
+  top: 561px;
+  left: 155px;
+  object-fit: cover;
+}
+
+.macbook-pro .o {
+  position: absolute;
+  width: 199px;
+  height: 190px;
+  top: 576px;
+  left: 290px;
+  object-fit: cover;
+}
+
+.macbook-pro .r {
+  position: absolute;
+  width: 163px;
+  height: 217px;
+  top: 562px;
+  left: 450px;
+  object-fit: cover;
+}
+
+.macbook-pro .t {
+  position: absolute;
+  width: 184px;
+  height: 235px;
+  top: 554px;
+  left: 577px;
+  object-fit: cover;
+}
+
+.macbook-pro .f {
+  position: absolute;
+  width: 149px;
+  height: 228px;
+  top: 558px;
+  left: 708px;
+  object-fit: cover;
+}
+
+.macbook-pro .o-2 {
+  position: absolute;
+  width: 190px;
+  height: 161px;
+  top: 618px;
+  left: 819px;
+  object-fit: cover;
+}
+
+.macbook-pro .l {
+  position: absolute;
+  width: 191px;
+  height: 251px;
+  top: 557px;
+  left: 952px;
+  object-fit: cover;
+}
+
+.macbook-pro .i {
+  position: absolute;
+  width: 126px;
+  height: 240px;
+  top: 568px;
+  left: 1107px;
+  object-fit: cover;
+}
+
+.macbook-pro .o-3 {
+  position: absolute;
+  width: 160px;
+  height: 159px;
+  top: 621px;
+  left: 1209px;
+  object-fit: cover;
+}
+
+.macbook-pro .element-2 {
+  position: absolute;
+  width: 205px;
+  height: 201px;
+  top: 502px;
+  left: 1244px;
+  object-fit: cover;
+}
+
+.macbook-pro .frame {
+  top: 447px;
+  left: 49px;
+  position: absolute;
+  width: 37px;
+  height: 76px;
+}
+
+.macbook-pro .frame-2 {
+  top: 453px;
+  left: 1426px;
+  position: absolute;
+  width: 37px;
+  height: 76px;
+}
